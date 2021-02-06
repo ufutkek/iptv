@@ -1,0 +1,15 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Kazakh" tvg-logo="https://i.imgur.com/GXlYCXz.jpg" tvg-country="KZ" tvg-url="" group-title="",Almaty TV
+https://live-almatytv.cdnvideo.ru/almatytv/almatytv.sdp/chunklist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Kazakh" tvg-logo="https://i.imgur.com/GXlYCXz.jpg" tvg-country="KZ" tvg-url="" group-title="",Almaty TV (720p)
+https://live-almatytv.cdnvideo.ru/almatytv/almatytv.sdp/playlist.m3u8
+#EXTINF:-1 tvg-id="atameken-business" tvg-name="Atameken Business" tvg-language="Kazakh" tvg-logo="https://i.imgur.com/DaYMzz8.jpg" tvg-country="KZ" tvg-url="https://iptvx.one/epg/epg.xml.gz" group-title="Business",Atameken Business (720p)
+https://live-atameken.cdnvideo.ru/atameken/atameken_hq.sdp/playlist.m3u8
+#EXTINF:-1 tvg-id="ktk-kz" tvg-name="КТК" tvg-language="Kazakh" tvg-logo="https://i.imgur.com/BGy7EMr.png" tvg-country="KZ" tvg-url="https://iptvx.one/epg/epg.xml.gz" group-title="",КТК (360p)
+http://89.218.30.37/ktklive/live.hq/playlist.m3u8
+#EXTINF:-1 tvg-id="novoe-televidenie" tvg-name="Новое телевидение" tvg-language="Kazakh" tvg-logo="https://i.imgur.com/HLiv5Hq.jpg" tvg-country="KZ" tvg-url="https://iptvx.one/epg/epg.xml.gz" group-title="",Новое телевидение (576p)
+http://serv25.vintera.tv:8081/novoetv/nov_tv/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Kazakh" tvg-logo="" tvg-country="KZ" tvg-url="" group-title="",Хабар 24 (1080p)
+http://serv30.vintera.tv:8081/habar/habar24/playlist.m3u8
+#EXTINF:-1 tvg-id="xabar24" tvg-name="Хабар 24" tvg-language="Kazakh" tvg-logo="https://i.imgur.com/tEH4vmX.png" tvg-country="KZ" tvg-url="https://iptvx.one/epg/epg.xml.gz" group-title="",Хабар 24 (1080p)
+https://live-24kz.cdnvideo.ru/24kz/24kz.sdp/playlist.m3u8
